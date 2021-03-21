@@ -1,2 +1,2 @@
 # apps
-Apps
+Slouží pouze pro studijní učely.
